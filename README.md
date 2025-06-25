@@ -62,4 +62,4 @@ Telegram频道传送门：集合众多热门Telegram频道入口，涵盖娱乐�
 社会影响：
 
 以清晰的时间线梳理娱乐圈与网红圈重大爆料事件，从首次曝光到持续发酵，层层还原事件脉络。既是吃瓜群众回顾年度大事件的资料库，也是了解舆论走势与圈内生态的重要窗口。
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/aa20250625/aa9）</span>
